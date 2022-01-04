@@ -1,0 +1,26 @@
+apiVersion: v1
+entries:
+  dotnet:
+  - apiVersion: v2
+    created: "2022-01-04T17:53:35.038035636+08:00"
+    description: A Helm chart to build and deploy .NET applications
+    digest: cf8e76df93406ace350136ee397ea69e8d6598009df13e3b2b3c6bfaddaeb2ee
+    keywords:
+    - runtimes
+    - dotnet
+    name: dotnet
+    urls:
+    - https://syxunion.github.io/helm-chart/dotnet-0.0.1.tgz
+    version: 0.0.1
+  nodejs-ex-k:
+  - apiVersion: v2
+    appVersion: 1.14.0
+    created: "2022-01-04T17:53:35.038348604+08:00"
+    description: A Helm chart for Kubernetes
+    digest: f05b6ac81b03e31ec350e88a3c002cf9f9c9a982444911b459e11dd040489cd4
+    name: nodejs-ex-k
+    type: application
+    urls:
+    - https://syxunion.github.io/helm-chart/nodejs-ex-k-0.0.1.tgz
+    version: 0.0.1
+generated: "2022-01-04T17:53:35.037401006+08:00"
